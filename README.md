@@ -1,4 +1,4 @@
-<h1>Hi, I'm Dwayne! Programmer, <a /">Cybersecurity Professional</a>, 
+<h1>Hi, I'm Dwayne King! Programmer, <a /">Cybersecurity Professional</a>, 
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
